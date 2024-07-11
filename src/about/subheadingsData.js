@@ -5,8 +5,12 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Hi, I'm Boity!
+            <br />
+            <br />I am a passionate software developer who enjoys being able to
+            express creativity and art with technology. I also enjoy learning
+            languages and have been studying Mandarin to broaden my
+            communication skills in general.
           </p>
         </>
       ),
@@ -14,58 +18,25 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2023 SheCodes Diploma",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            A diploma in front-end development where I learned crucial and
+            fundamental coding skills. As a result, I am comfortable with coding
+            in HTML5, CSS and JavaScript.
           </p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "2024 Google Data Analytics",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-  ],
-  3: [
-    {
-      title: "2022 Front End Developer",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2020 UX Designer",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2017 IT Consultant",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            The Data Analytics Professional Certificate allowed me to brush up
+            on my MS Office skills as well as learning to read and process data
+            using Python and SQl.
           </p>
         </>
       ),

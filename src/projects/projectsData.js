@@ -1,6 +1,7 @@
 import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/project-2.png";
 import projectThree from "../assets/project-3.png";
+import projectFour from "../assets/project-4.png";
 
 const projects = {
   1: {
@@ -26,7 +27,8 @@ const projects = {
     description: (
       <>
         <p>
-          A working game web app that was created using simple HTML, CSS and JavaScript elements.
+          A working game web app that was created using simple HTML, CSS and
+          JavaScript elements.
         </p>
       </>
     ),
@@ -47,6 +49,21 @@ const projects = {
     ),
     github: "https://github.com/bxity/boity-travel",
     demo: "https://boity-shanghaicity.netlify.app",
+  },
+  4: {
+    title: "Dictionary App",
+    image: projectFour,
+    description: (
+      <>
+        <p>
+          A working dictionary web app that was created using the React
+          framework as well as two APIs to fetch data. The app was created using
+          mostly CSS to give a "real feel" to the project's website.
+        </p>
+      </>
+    ),
+    github: "https://github.com/bxity/boity-dictionary",
+    demo: "https://boity-dictionary.netlify.app",
   },
 };
 

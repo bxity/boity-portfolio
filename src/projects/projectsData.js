@@ -21,19 +21,17 @@ const projects = {
     demo: "https://boity-currency-converter.netlify.app",
   },
   2: {
-    title: "Dictionary App",
+    title: "Tic Tac Toe",
     image: projectTwo,
     description: (
       <>
         <p>
-          A working dictionary web app that was created using the React
-          framework as well as two APIs to fetch data. The app was created using
-          mostly CSS to give a "real feel" to the project's website.
+          A working game web app that was created using simple HTML, CSS and JavaScript elements.
         </p>
       </>
     ),
-    github: "https://github.com/bxity/boity-dictionary",
-    demo: "https://boity-dictionary.netlify.app",
+    github: "https://github.com/bxity/boity-tictactoe",
+    demo: "https://boity-tictactoe.netlify.app",
   },
   3: {
     title: "Travel Guide Website",
